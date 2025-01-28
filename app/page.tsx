@@ -10,7 +10,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold mb-4 sm:text-7xl">{sitename}</h1>
       <p className="max-w-[600px] text-foreground mb-8 sm:text-base">
         You&apos;ll find all the tutorials and walkthrough you could ever need
-        for using ClassQuest!
+        for using {sitename}!
       </p>
       <div className="flex items-center gap-5">
         <Link
