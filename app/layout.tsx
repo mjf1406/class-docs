@@ -13,7 +13,7 @@ import "./globals.css"
 const baseUrl = Settings.metadataBase
 
 export const metadata: Metadata = {
-  title: Settings.title,
+  title: Settings.title + " - Docs",
   metadataBase: new URL(baseUrl),
   description: Settings.description,
   keywords: Settings.keywords,
