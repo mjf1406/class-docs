@@ -9,7 +9,7 @@ export default function Home() {
     <div className="min-h-[86.5vh] flex flex-col justify-center items-center text-center px-2 py-8">
       <h1 className="text-4xl font-bold mb-4 sm:text-7xl">{sitename}</h1>
       <p className="max-w-[600px] text-foreground mb-8 sm:text-base">
-        You&apos;ll find all the tutorials and walkthrough you could ever need
+        You&apos;ll find all the tutorials and walkthroughs you could ever need
         for using {sitename}!
       </p>
       <div className="flex items-center gap-5">

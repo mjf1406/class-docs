@@ -4,11 +4,12 @@ import { GeistMono } from "geist/font/mono"
 import { GeistSans } from "geist/font/sans"
 
 import { Settings } from "@/lib/meta"
-import { Footer } from "@/components/navigation/footer"
 import { Navbar } from "@/components/navigation/navbar"
 import { ThemeProvider } from "@/components/theme-provider"
 
 import "./globals.css"
+
+import Footer from "@/components/navigation/footer"
 
 const baseUrl = Settings.metadataBase
 
